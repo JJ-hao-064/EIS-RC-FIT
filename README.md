@@ -33,13 +33,21 @@ R0-p(R1,C1)-p(R2,C2)
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
+
 ## Installation
 
 Python 3.10 or later is recommended.
 
+Create a Conda environment:
+
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+conda create -n eis-fit python=3.10
+conda activate eis-fit
+```
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 
