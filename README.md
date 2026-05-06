@@ -1,4 +1,4 @@
-# EIS Second-Order RC Fitting and ZView-Style Error Analysis
+# EIS Second-Order RC Fitting and ZView2-Style Error Analysis
 
 This project batch-fits electrochemical impedance spectroscopy (EIS) data using a second-order RC equivalent circuit and exports ZView-style error metrics, fitted parameters, point-wise residuals, and figures.
 
