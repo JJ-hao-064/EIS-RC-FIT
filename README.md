@@ -115,4 +115,4 @@ Adjust these values if your battery system, units, or impedance range differs.
 
 ## License
 
-No license has been selected yet. If this repository will be public, add a license such as MIT, Apache-2.0, or another license suitable for your project.
+MIT License
