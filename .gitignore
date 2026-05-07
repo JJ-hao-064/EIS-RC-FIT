@@ -56,9 +56,10 @@ TJ-EIS-C4-T55/
 # =========================
 ZView_TXT/
 # =========================
-# Virtual environment
+# other files 
 # =========================
 zview_txt.py
+elevate.md
 # =========================
 # System files
 # =========================
